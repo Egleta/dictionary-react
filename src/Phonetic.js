@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react/cjs/react.development";
 import "./Phonetic.css";
 
 export default function Phonetic(props) {
