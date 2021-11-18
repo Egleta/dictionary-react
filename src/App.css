@@ -1,6 +1,10 @@
 body {
     background: #7fac7c;
 }
+.App {
+    max-width: 960px;
+    margin: 0 auto;
+}
 
 .App-footer {
     text-align: center;
