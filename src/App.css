@@ -11,7 +11,10 @@ body {
     margin: 30px, 0;
     padding-bottom: 30px;
 }
-.App a{
+.App a {
     text-decoration: none;
     color: #2e4d2c;
+}
+.App .cat {
+    max-width: 100%;
 }

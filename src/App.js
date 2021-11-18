@@ -4,6 +4,7 @@ import Dictionary from "./Dictionary";
 function App() {
     return (
         <div className="App">
+            <img src="/transparent_cat.png" className="cat" alt="cat asks a question" />
             <div className="container">
                 <main>
                     <Dictionary defaultKeyword="sunset" />
