@@ -6,10 +6,15 @@ function App() {
         <div className="App">
             <div className="container">
                 <main>
-                    <Dictionary defaultKeyword="sunset"/>
+                    <Dictionary defaultKeyword="sunset" />
                 </main>
                 <footer className="App-footer">
-                    <small>Coded by Egle Taraskeviciute</small>
+                    <small>
+                        Coded by Egle Taraskeviciute, the project is{" "}
+                        <a href="https://github.com/Egleta/dictionary-react" target="_blank" rel="noreferrer">
+                            open-sourced
+                        </a>
+                    </small>
                 </footer>
             </div>
         </div>
